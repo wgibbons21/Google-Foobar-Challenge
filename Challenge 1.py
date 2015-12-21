@@ -1,4 +1,3 @@
-
 def answer(x, y, z):
     dates = [x, y, z]
     dates.sort()
