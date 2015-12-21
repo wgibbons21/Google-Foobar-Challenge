@@ -55,6 +55,7 @@ def answer(x, y, z):
         else:
             return "Ambiguous"
 
+
 a = 2
 b = 12
 c = 31
